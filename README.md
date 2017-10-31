@@ -1,7 +1,4 @@
-Build a blog with javascript and mongodb
-=====
-
-A blog made out of the javascripts. Uses mongoose, angular, express and the node.js and the mongodbs for realz
+Mesan Stack
 
 
 #### Getting started
@@ -11,6 +8,7 @@ $ npm install
 $ node server 
 ```
 
-**Tutorial part 1:** https://connorleech.ghost.io/build-a-blog-with-the-mean-stack-part-1/
 
-**Questions?** [Hit me up on twitter](https://twitter.com/cleechtech) or better yet [create an issue](https://github.com/jasonshark/mean-blog/issues)
+**Tutorial part 1:** http://readyourlessons.com/
+
+**Questions?** [Hit me up on facebook](https://www.facebook.com/ashutosh.kr.upadhyay)
